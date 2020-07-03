@@ -1,2 +1,0 @@
-# GEN-KEY-1-OFC-EMI-V
-Emi.sh
